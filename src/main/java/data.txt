@@ -1,0 +1,42 @@
+//post media
+{
+  "token": "Asdasd789779",
+  "device_id" : "87899898324",
+  "data" : {
+    "title" : "Cara membuat kue tar",
+    "content": "baiklah....",
+    "img": "http://google.com"
+  }
+}
+
+
+//post comment
+{
+  "token": "Asdasd789779",
+  "device_id" : "87899898324",
+  "data" : {
+    "content_id" : 1,
+    "comment": "Good content...."
+  }
+}
+
+
+//send chat
+{
+  "token": "Asdasd789779",
+  "device_id" : "87899898324",
+  "data" : {
+    "to" : "eza",
+    "chat": "Hey eza, gimana kabar?"
+  }
+}
+
+
+
+{
+    "status" : false,
+    "response_code" : 123,
+    "data": {
+
+    }
+}
